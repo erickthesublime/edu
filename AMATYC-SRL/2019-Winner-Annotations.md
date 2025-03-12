@@ -8,7 +8,7 @@ Contents
 3	Mathematical Tools	4
 4	Job and Career Exploration	5
 
-1. Grading Criteria
+I. Grading Criteria
 
 > The thesis states a solution that is clear and well-reasoned. It is supported by the research and data included in the paper. 10 points ”In the thesis defense it will prove if installing a solar power system would be feasible and favorable.”
 > A strong case is built for the solution given.  5 points ”There are many residents in Kentucky that use solar panels in their homes.” ”Tennessee Valley Authority . . . Green Power Program, which leps with the costs of installing a solar panel system”
@@ -26,7 +26,7 @@ Contents
 
     This thesis extended well beyond expectations in the following ways: Possible Ex- tensions include but are not limited to, creativity, teamwork, organization is excep- tional. 5 points
 
-2. Problem Research
+II. Problem Research
 
 > Data presented is used in a meaningful way to support the conclusion given in this thesis. The work includes well-labeled tables, graphs, and figures with titles that sup- port the work and lead to analysis and interpretation toward the solution. 10 points
 
@@ -59,140 +59,49 @@ Contents
     Purpose and Utility: These figures would support the environmental arguments for choosing solar energy by providing a clear visual comparison of the impact of different energy sources on public health and environmental quality.
 
 The focus of the research supports the data collected. 5 points
-
-
-
-
-
-
-
-
-
+1. The research is focused and relevant to the problem statement, with a clear linkage between data and the proposed solution.
+2. While focused, the research could delve deeper into global comparisons or case studies from similar regions to draw more robust conclusions.
 
 
 The thesis discusses a variety of evaluation criteria and research into these and their effects supports the solution. 5 points
-
-
-
-
-
-
-
-
-
-
+1. The criteria for evaluating energy solutions are well-chosen and clearly discussed, with reliable sources underpinning the research.
 
 The data gathered was found from reliable sources. 5 points
+1. Utilizes credible sources such as NREL and Pennyrile Electric to anchor the research in reliable data.
 
+This thesis extended well beyond expectations in the following ways: Possible Ex- tensions include but are not limited to, additional related ideas are considered in setting the focus of this work; the data is presented in a way that shows creativity and understanding of the work of research. 5 points
+1. The extension into community impact is a significant addition, showing an understanding of the broader implications of energy decisions.
+2. Further extensions could include scenario modeling or simulations to predict future impacts under different conditions.
 
-
-
-
-
-
-
-
-
-
-
-This thesis extended well beyond expectations in the following ways: Possible Ex- tensions include but are not limited to, additional related ideas are considered in setting the focus of this work; the data is presented in a way that shows creativity and
- 
-understanding of the work of research. 5 points
-
-
-
-
-
-
-
-
-
-
-
-
-
-Mathematical Tools
+III. Mathematical Tools
 
 This thesis clearly explains the process or model chosen. 5 points
-
-
-
-
-
-
-
-
-
-
-
+1. Clear explanation of the PVWatts calculator's role and its input parameters. The methodology is well-documented and appropriate for the task.
+2.  Additional explanation of the choice of model parameters and their sensitivity to changes would enhance understanding.
 
 This thesis contains precise mathematical notation. 5 points
-
-
-
-
-
-
-
-
-
-
-
+1. Notation is accurate and the mathematical reasoning is sound, making the analysis credible.
+2. More detailed explanations of mathematical terms and concepts could make the content accessible to a broader audience.
 
 This thesis explains the mathematics necessary to answer the challenge well.  5 points
- 
-
-
-
-
-
-
-
-
-
-
+1. Notation is accurate and the mathematical reasoning is sound, making the analysis credible.
+2. More detailed explanations of mathematical terms and concepts could make the content accessible to a broader audience.
 
 This thesis extended well beyond expectations in the following ways: Possible Ex- tensions include but are not limited to, mathematical analysis is explained in a way that demonstrates deep understanding. The solution offers ideas to extend the model to include additional variables. 5 points
+1. Adequate use of mathematical tools to perform necessary calculations.
+2. Incorporation of more advanced statistical or predictive models could provide deeper insights into the long-term viability of the proposed solution.
 
-
-
-
-
-
-
-
-
-
-
-
-Job and Career Exploration
+IV. Job and Career Exploration
 
 Multiple careers related to this challenge were explored. 5 points
+1. Comprehensive overview of relevant careers, educational pathways, and job outlooks.
+2. More detailed descriptions of day-to-day activities and work environments would provide a clearer picture of these careers.
  
 Exploration of careers includes salary and job environment. 5 points
-
-
-
-
-
-
-
-
-
-
-
+1. Basic exploration of careers related to the energy sector.
+2. Inclusion of interviews with professionals in the field or job shadowing experiences could significantly enhance the practical relevance and depth of this section.
 
 Exploration of careers includes academic preparation required. 5 points
-
-
-
-
-
-
-
-
-
-
-
+1. Solid job exploration that aligns well with the project theme. Consider incorporating more interactive or firsthand research methods to gain deeper insights into these professions.
 
 This thesis extended well beyond expectations in the following ways: Possible Ex- tensions include but are not limited to, interviews with experts in related fields, pic- tures of the job environment. 5 points
