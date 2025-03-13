@@ -13,7 +13,7 @@
    Ending by a thesis statement.
 4. Not quite meaningful.
 
-## Understanding the Current System (Analyzing the System)
+### Understanding the Current System (Analyzing the System)
 1. **Reason for understanding the system.**  
    Summarize the systems: types, works (how it works), who.
 2. **How it works again.**  
@@ -24,7 +24,7 @@
 
 ---
 
-# The Factors in Rising Cost of College
+### The Factors in Rising Cost of College
 
 1. **First Factor**  
    Illustrate by Figure.  
