@@ -40,3 +40,52 @@
    More study to show and strengthen the factor.  
    Give 3 references.  
    Stress the importance to point out the factors leading to the problem.
+### Macroeconomic Effects of Student Loan Debt Forgiveness
+
+1. **The benefits of current solutions. (Debt Forgiveness)**  
+   Give the evidences.
+2. **Reason behind the solution.**
+3. **Introduction of prominent policy recommendations.**  
+   - News Nearest president (Donald Trump)'s policy  
+   - Most attractive policy (Sander's)  
+   - Current President's Policy
+
+## Job and Career Research
+
+1. **Introduction the individuals**
+2. **Person 1: A professor.**  
+   **Biography** - Current / Latest work place and position.  
+   1. Progress of "degrees" (B.S, M.S, B Phd)  
+   2. Organization's that he works for / contributed to His publications.  
+      - His awards.  
+      - On top of that is they best award.  
+   **Career:**  
+   1. Introduction of his publications: books, journals, and articles.  
+      - Impact of his publications.  
+      - Cited by how many research?  
+      - If there is not his contribution, what happen?
+3. **Person 2: A policies.**  
+   **Biography:**  
+   1. Current work place and position.  
+      - The read to current position.  
+   **Career:**  
+   1. Policy welche builds that contribute to solve problem.  
+      - His/her most contributions.
+
+## Mathematical Tools
+
+1. **Introduction to 2 solution (2 aspects) of solution:**  
+   **Aspect 1: The acute Loan Debt Crisis**  
+   1. Introduction of model 1.  
+   2. The Introduction to proposal 1  
+      - Show the table.  
+      - The affect of proposal to the organizations (producer, manufoctor,...)  
+   3. Introduction to proposal 2  
+      - The effect of proposal to the environment.
+   
+### Regression and Predictive Model
+
+1. **Introduction of method**
+2. **Specify the math tool is used to model the solution**  
+   - Formular is used to model
+3. **Specify the rale correlation are used to modeling**
